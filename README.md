@@ -61,4 +61,4 @@ Este repositório contém tarefas realizadas durante a disciplina de **Lógica d
 │ │ └── Program.cs
 │
 ├── 📄 README.md # documentação principal
-└── 📄 .gitignore # arquivos e pastas a ignorar no Git ```
+└── 📄 .gitignore # arquivos e pastas a ignorar no Git 
