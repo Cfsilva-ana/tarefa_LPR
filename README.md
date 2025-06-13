@@ -41,23 +41,23 @@ Este repositório contém tarefas realizadas durante a disciplina de **Lógica d
 
 📦 tarefa_LPR/
 ├── 📁 tarefa_LPR/
-│   ├── 📁 AULA_4/
-│   │   └── 📁EXERCICIO_2
-|   |   |   └──EX_2.cpp 
-│   ├── 📁 AULA_5/
-│   │   └── 📁EXERCICIO_1
-|   |   |   └──📁EX_1
-|   |   |   |   └──Program.cs
-│   │   └── 📁EXERCICIO_2
-|   |   |   └──EX_2.cpp
-│   │   └── 📁EXERCICIO_3
-|   |   |   └──EX_3.cpp 
-│   │   └── 📁EXERCICIO_4
-|   |   |   └──📁EX_4
-|   |   |   |   └──Program.cs
-│   │   └── 📁EXERCICIO_5
-|   |   |   └──📁EX_5
-|   |   |   |   └──Program.cs
+│ ├── 📁 AULA_4/
+│ │ └── 📁 EXERCICIO_2
+│ │ └── EX_2.cpp
+│ ├── 📁 AULA_5/
+│ │ └── 📁 EXERCICIO_1
+│ │ └── 📁 EX_1
+│ │ └── Program.cs
+│ │ └── 📁 EXERCICIO_2
+│ │ └── EX_2.cpp
+│ │ └── 📁 EXERCICIO_3
+│ │ └── EX_3.cpp
+│ │ └── 📁 EXERCICIO_4
+│ │ └── 📁 EX_4
+│ │ └── Program.cs
+│ │ └── 📁 EXERCICIO_5
+│ │ └── 📁 EX_5
+│ │ └── Program.cs
 │
-├── 📄 README.md             # documentação principal
-└── 📄 .gitignore            # arquivos e pastas a ignorar no Git
+├── 📄 README.md # documentação principal
+└── 📄 .gitignore # arquivos e pastas a ignorar no Git
