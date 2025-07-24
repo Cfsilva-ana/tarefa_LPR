@@ -1,0 +1,15 @@
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\bin\Debug\net9.0\EX_1.exe
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\bin\Debug\net9.0\EX_1.deps.json
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\bin\Debug\net9.0\EX_1.runtimeconfig.json
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\bin\Debug\net9.0\EX_1.dll
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\bin\Debug\net9.0\EX_1.pdb
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\EX_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\EX_1.AssemblyInfoInputs.cache
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\EX_1.AssemblyInfo.cs
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\EX_1.csproj.CoreCompileInputs.cache
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\EX_1.sourcelink.json
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\EX_1.dll
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\refint\EX_1.dll
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\EX_1.pdb
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\EX_1.genruntimeconfig.cache
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_9\EXERCICIO_1\EX_1\obj\Debug\net9.0\ref\EX_1.dll
