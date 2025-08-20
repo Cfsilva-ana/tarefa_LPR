@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Linguagens-C++%20%7C%20CSharp-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Linguagens">
   <img src="https://img.shields.io/badge/Projeto-Educacional-green?style=for-the-badge&logo=github" alt="Projeto">
+   <img src="https://img.shields.io/badge/Feito%20por-Ana%20Cecília-ff69b4?style=for-the-badge" alt="Autora">
+
+
 </p>
 
 ---
@@ -55,12 +58,9 @@ O repositório está organizado por aulas, cobrindo uma trilha de aprendizado pr
 
 ## 📁 Estrutura de Pastas
 
-Para manter a organização, cada conjunto de exercícios está em uma pasta correspondente à sua aula:
+Para manter a organização, cada conjunto de exercícios está em uma pasta correspondente à sua aula
 
-<p align="center">
-Feito por <strong>Ana Cecília</strong>
-</p>
-<p align="center">
+
 <a href="https://www.linkedin.com/in/cfsilva-ana" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
 <a href="https://www.google.com/search?q=https://github.com/seu-github" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"></a>
 </p>
