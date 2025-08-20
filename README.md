@@ -1,64 +1,66 @@
 <h1 align="center">📘 Tarefas de Lógica de Programação e Raciocínio (LPR)</h1>
 
 <p align="center">
-  🖥️ Repositório com exercícios práticos em <strong>C++</strong> e <strong>C#</strong>, abordando fundamentos essenciais da programação, versionamento e resolução de problemas.
+  Repositório dedicado aos exercícios da disciplina de Lógica de Programação. Inclui soluções em <strong>C#</strong> e <strong>C++</strong> para uma variedade de problemas, desde conceitos básicos até estruturas de dados avançadas.
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Linguagens-C++%20%7C%20CSharp-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Linguagens">
   <img src="https://img.shields.io/badge/Projeto-Educacional-green?style=for-the-badge&logo=github" alt="Projeto">
-  <img src="https://img.shields.io/badge/Feito%20por-Ana%20Cecília-ff69b4?style=for-the-badge" alt="Autora">
 </p>
 
 ---
 
-## 📚 Sobre o Repositório
+## 📚 Sobre o Projeto
 
-Este repositório contém tarefas realizadas durante a disciplina de **Lógica de Programação e Raciocínio**. Os exercícios são divididos por tópicos e implementados em **C++** e **C#**, cobrindo desde os primeiros passos com variáveis até lógica com estruturas complexas.
-
----
-
-## 🧠 Conteúdos Abordados
-
-- 🔁 **Estruturas de Repetição**  
-  Laços `for`, `while` e `do-while` para controle de fluxo.
-
-- 🔀 **Estruturas de Seleção**  
-  Decisões condicionais com `if`, `else` e `switch-case`.
-
-- 🧮 **Funções**  
-  Criação e uso de funções com e sem retorno, com parâmetros simples e compostos.
-
-- 🧱 **Vetores e Matrizes**  
-  Operações com arrays unidimensionais e bidimensionais.
-
-- 🌿 **Controle de Versionamento**  
-  Uso do Git e GitHub para acompanhar o progresso dos exercícios.
+Este espaço serve como um portfólio de aprendizado, documentando a evolução e a aplicação prática dos conceitos ensinados na disciplina de LPR. O objetivo é resolver problemas de forma algorítmica, utilizando as ferramentas e estruturas de dados mais adequadas para cada cenário.
 
 ---
 
-## 📁 Estrutura do Projeto
+## 🧠 Tópicos Abordados
 
+O repositório está organizado por aulas, cobrindo uma trilha de aprendizado progressiva:
 
-``` 📦 tarefa_LPR/
-├── 📁 tarefa_LPR/
-│ ├── 📁 AULA_4/
-│ │ └── 📁 EXERCICIO_2
-│ │ └── EX_2.cpp
-│ ├── 📁 AULA_5/
-│ │ └── 📁 EXERCICIO_1
-│ │ └── 📁 EX_1
-│ │ └── Program.cs
-│ │ └── 📁 EXERCICIO_2
-│ │ └── EX_2.cpp
-│ │ └── 📁 EXERCICIO_3
-│ │ └── EX_3.cpp
-│ │ └── 📁 EXERCICIO_4
-│ │ └── 📁 EX_4
-│ │ └── Program.cs
-│ │ └── 📁 EXERCICIO_5
-│ │ └── 📁 EX_5
-│ │ └── Program.cs
-│
-├── 📄 README.md # documentação principal
-└── 📄 .gitignore # arquivos e pastas a ignorar no Git 
+* **Fundamentos da Programação:**
+    * Variáveis, tipos de dados e operadores.
+
+* **Controle de Fluxo:**
+    * **Estruturas de Seleção:** `if-else` e `switch-case`.
+    * **Estruturas de Repetição:** Laços `for`, `while` e `do-while`.
+
+* **Modularização:**
+    * Criação e uso de funções e procedimentos.
+    * Passagem de parâmetros por valor e referência.
+
+* **Estruturas de Dados:**
+    * [cite_start]**Homogêneas Estáticas:** Vetores e Matrizes para manipulação de coleções de tamanho fixo[cite: 579, 580].
+    * [cite_start]**Heterogêneas:** Registros (`Structs`) para agrupar diferentes tipos de variáveis em uma única entidade[cite: 5, 135].
+    * **Dinâmicas:**
+        * [cite_start]**Listas:** Coleções ordenadas e de tamanho variável, ideais para inserção e remoção de elementos[cite: 1183, 1336].
+        * [cite_start]**Dicionários (`Map`):** Estruturas eficientes para armazenar pares de chave-valor[cite: 1186, 1857].
+
+* **Boas Práticas:**
+    * **Controle de Versionamento:** Uso de Git e GitHub para gerenciar o histórico de desenvolvimento.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagens:** C# (.NET), C++
+* **Compiladores:** .NET SDK, g++ (MinGW/Linux)
+* **Versionamento:** Git & GitHub
+
+---
+
+## 📁 Estrutura de Pastas
+
+Para manter a organização, cada conjunto de exercícios está em uma pasta correspondente à sua aula:
+
+<p align="center">
+Feito por <strong>Ana Cecília</strong>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/cfsilva-ana" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
+<a href="https://www.google.com/search?q=https://github.com/seu-github" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"></a>
+</p>
