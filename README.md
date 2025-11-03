@@ -103,8 +103,8 @@ Tarefas_de_LPR/
 │   ├── EXERCICIO_3/ - Funções e procedimentos
 │   ├── EXERCICIO_4/ - Diagrama de classes (Jogo RPG)
 │   ├── EXERCICIO_5/ - Sistema de Reservas (Cliente-Reserva)
-│   ├── EXERCICIO_6/ - Estruturas de dados avançadas
-│   └── EXERCICIO_7/ - Projeto integrador
+│   ├── EXERCICIO_6/ - Sistema de Biblioteca (Livro-Biblioteca)
+│   └── EXERCICIO_7/ - Sistema de Matrícula (Aluno-Turma N:N)
 └── README.md
 ```
 
@@ -143,6 +143,26 @@ Tarefas_de_LPR/
   - Adição de reservas com data e serviço
   - Listagem de reservas futuras
   - Interface de console amigável
+
+#### **Exercício 6 - Sistema de Biblioteca**
+- **Objetivo:** Gerenciamento de coleções e POO
+- **Classes:** Livro, Biblioteca
+- **Funcionalidades:**
+  - Cadastro interativo de livros
+  - Listagem organizada da biblioteca
+  - Encapsulamento com properties
+  - Validações e controle de dados
+
+#### **Exercício 7 - Sistema de Matrícula**
+- **Objetivo:** Relacionamento N:N com classe intermediária
+- **Classes:** Aluno, Turma, Matricula
+- **Funcionalidades:**
+  - Relacionamento muitos-para-muitos
+  - Controle de capacidade das turmas
+  - Prevenção de matrículas duplicadas
+  - Sistema de gerenciamento centralizado
+  - Relatórios detalhados com estatísticas
+  - Interface rica com emojis e validações
 
 ---
 

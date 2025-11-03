@@ -1,0 +1,15 @@
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\bin\Debug\net9.0\EX_7.exe
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\bin\Debug\net9.0\EX_7.deps.json
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\bin\Debug\net9.0\EX_7.runtimeconfig.json
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\bin\Debug\net9.0\EX_7.dll
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\bin\Debug\net9.0\EX_7.pdb
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\EX_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\EX_7.AssemblyInfoInputs.cache
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\EX_7.AssemblyInfo.cs
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\EX_7.csproj.CoreCompileInputs.cache
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\EX_7.sourcelink.json
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\EX_7.dll
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\refint\EX_7.dll
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\EX_7.pdb
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\EX_7.genruntimeconfig.cache
+C:\Users\darkw\OneDrive\Documentos\GitHub\Tarefas_de_LPR\AULA_10\EXERCICIO_7\EX_7\obj\Debug\net9.0\ref\EX_7.dll
