@@ -154,7 +154,7 @@ Tarefas_de_LPR/
 
 ### **Executar um exercício:**
 ```bash
-cd AULA_10/EXERCICIO_X/EX_X
+cd AULA_X/EXERCICIO_X/EX_X
 dotnet run
 ```
 
